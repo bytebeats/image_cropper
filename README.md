@@ -1,6 +1,6 @@
 # image_cropper
 
-A new Flutter project. Take a photo or pick a picture and the crop it.
+A new Flutter project. Take a photo or pick a picture and then crop it.
 
 ## Getting Started
 
